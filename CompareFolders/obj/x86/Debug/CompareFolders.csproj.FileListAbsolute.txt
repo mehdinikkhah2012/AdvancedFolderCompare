@@ -16,3 +16,12 @@ H:\AppFramework\CompareFolders\CompareFolders\obj\x86\Debug\CompareDir.FoldersCo
 H:\AppFramework\CompareFolders\CompareFolders\obj\x86\Debug\CompareFolders.Properties.Resources.resources
 H:\AppFramework\CompareFolders\CompareFolders\obj\x86\Debug\CompareFolders.csproj.GenerateResource.Cache
 H:\AppFramework\CompareFolders\CompareFolders\obj\x86\Debug\CompareFolders.csprojResolveAssemblyReference.cache
+H:\_Misc\Work and Business\MyProjects\CompareFolders\CompareFolders\obj\x86\Debug\CompareFolders.exe
+H:\_Misc\Work and Business\MyProjects\CompareFolders\CompareFolders\obj\x86\Debug\CompareFolders.pdb
+H:\_Misc\Work and Business\MyProjects\CompareFolders\CompareFolders\bin\Debug\CompareFolders.exe
+H:\_Misc\Work and Business\MyProjects\CompareFolders\CompareFolders\bin\Debug\CompareFolders.pdb
+H:\_Misc\Work and Business\MyProjects\CompareFolders\CompareFolders\obj\x86\Debug\CompareFolders.csprojResolveAssemblyReference.cache
+H:\_Misc\Work and Business\MyProjects\CompareFolders\CompareFolders\obj\x86\Debug\CompareDir.OptionsForm.resources
+H:\_Misc\Work and Business\MyProjects\CompareFolders\CompareFolders\obj\x86\Debug\CompareDir.FoldersCompareForm.resources
+H:\_Misc\Work and Business\MyProjects\CompareFolders\CompareFolders\obj\x86\Debug\CompareFolders.Properties.Resources.resources
+H:\_Misc\Work and Business\MyProjects\CompareFolders\CompareFolders\obj\x86\Debug\CompareFolders.csproj.GenerateResource.Cache

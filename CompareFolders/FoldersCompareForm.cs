@@ -379,6 +379,7 @@ namespace CompareDir
 
                         process.Start();
                         process.WaitForInputIdle();
+                        Thread.Sleep(8000);
                     }
 
                     //windows will run visual studio only if it's not running
